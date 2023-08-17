@@ -13,7 +13,7 @@
 }
 
 .text-1 {
-    margin-top: 209px;
+    margin-top: 206px;
     margin-left: 62px;
     font-size: 60px;
     font-style: normal;
@@ -41,7 +41,7 @@
 
 .sub-section {
     padding-top: 96px;
-    margin-left: 176px;
+    margin-left: 171px;
     /* justify-content: center; */
 }
 
@@ -59,7 +59,7 @@
     font-style: normal;
     font-weight: 400;
     line-height: 28px;
-    padding-bottom: 67px;
+    padding-bottom: 66.82px;
 }
 
 .container-3 {
@@ -77,7 +77,7 @@
     font-weight: 500;
     line-height: 20px;
     padding-top: 300px;
-    /* 50% */
+    margin-left: 77px;
 }
 
 .text-6 {
@@ -87,11 +87,18 @@
     font-weight: 300;
     line-height: 30px;
     padding-top: 50px;
+    margin-left: 77px;
+
 }
 
 .foto {
-    padding-top: 80px;
+    padding-top: 82px;
     padding-bottom: 92px;
+    width: 510px;
+    height: 605px;
+    flex-shrink: 0;
+    border-radius: 30px;
+    /* background: url(/imagens/foto.svg), lightgray 50% / cover no-repeat; */
 }
 
 .container-4 {
@@ -155,7 +162,8 @@
     line-height: 30px;
     /* 100% */
 }
-.btn:hover{
+
+.btn:hover {
     background-color: #ff8c00;
-    
+
 }
